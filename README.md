@@ -15,7 +15,4 @@ Click the badge which says 'Open in Colab' and follow directions there.
 1. Most internet provider while giving reasonable download speeds, limits upload speeds. This tool is able to bypass that by using Colab virtual machines network.
 2. Because it is in the cloud, by that I mean I can access it anywhere on my phone, tablet, etc without copying files around.
 
-## TODO
-- Add Google Drive download to Google Drive.
-
 For more questions check [existing issues](https://github.com/zampierilucas/Download-to-Google-Drive/issues) or [open a new one](https://github.com/zampierilucas/Download-to-Google-Drive/issues/new)
